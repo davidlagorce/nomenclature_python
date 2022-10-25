@@ -1,0 +1,32 @@
+Total number of synonyms in Czech
+Statistics about all synonyms in Czech
+Number of synonyms for groups of disorders in Czech
+Percentage of synonyms for groups of disorders in Czech
+Statistics about groups of disorder's synonyms in Czech
+Number of synonyms for disorders in Czech
+Percentage of synonyms for disorders in Czech
+Statistics about disorder's synonyms in Czech
+Number of synonyms for subtype of disorders in Czech
+Percentage of synonyms for subtype of disorders in Czech
+Statistics about subtype of disorder's synonyms in Czech
+Number of preferred terms for groups of disorder in Czech
+Number of nomenclature terms (preferred terms + synonyms) for groups of disorders in Czech
+idem disorders
+idem subtypes
+
+
+Number of actives entities: 9369
+Total number of synonyms in actives entities: 12688
+Number of actives entities with synonyms in English : 5901 (62.98%) Median: 2, Max: 17
+
+Number of groups of disorders: 2128
+Total number of synonyms in groups of disorders: 1222
+Number of groups of disorders with synonyms in English : 720 (33.83%) Median: 1, Max: 10
+
+Number of disorders: 6227
+Total number of synonyms in disorders: 9767
+Number of disorders with synonyms in English : 4501 (72.28%) Median: 2, Max: 15
+
+Number of subtypes of disorders: 1014
+Total number of synonyms in subtypes of disorders: 1699
+Number of subtypes of disorders with synonyms in English : 680 (67.06%) Median: 2, Max: 17
