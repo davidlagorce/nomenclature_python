@@ -7,11 +7,12 @@ Click below to run Binder
 
 ## Getting Started
 
+In order to run various scripts, please navigate in notebooks directory, open one by double-click. 
+To run it, select the first cell and type SHIFT+ENTER
 
 ## Authors
 
 Contributors names and contact info
-
 David Lagorce 
 [@david.lagorce@inserm.fr]
 
