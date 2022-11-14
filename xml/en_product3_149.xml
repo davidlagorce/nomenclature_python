@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<JDBOR date="2022-11-07 11:20:47" version="1.3.18 / 4.1.7 [2022-07-12] (orientdb version)" copyright="Orphanet (c) 2022" dbserver="jdbc:sybase:Tds:canard.orpha.net:2020">
+  <ClassificationList count="1">
+    <Classification id="149">
+      <OrphaNumber>156446</OrphaNumber>
+      <Name lang="en">Orphanet classification of rare sucking/swallowing disorders</Name>
+      <ClassificationNodeRootList count="0">
+      </ClassificationNodeRootList>
+    </Classification>
+  </ClassificationList>
+</JDBOR>

@@ -2,10 +2,9 @@
 
 ## Executing program
 Click below to run Binder
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davidlagorce/nomenclature_python/HEAD)
 
-## Getting Started
+## Running Scripts
 
 In order to run various scripts, please navigate in notebooks directory, open one by double-click. 
 To run it, select the first cell and type SHIFT+ENTER

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<JDBOR date="2022-06-14 16:17:05" version="1.3.16 / 4.1.7 [2022-01-26] (orientdb version)" copyright="Orphanet (c) 2022" dbserver="jdbc:sybase:Tds:canard.orpha.net:2020">
+<JDBOR date="2022-11-07 11:22:29" version="1.3.18 / 4.1.7 [2022-07-12] (orientdb version)" copyright="Orphanet (c) 2022" dbserver="jdbc:sybase:Tds:canard.orpha.net:2020">
   <ClassificationList count="1">
     <Classification id="181">
       <OrphaNumber>162508</OrphaNumber>
@@ -33781,7 +33781,7 @@
                           <Disorder id="17944">
                             <OrphaCode>171860</OrphaCode>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=171860</ExpertLink>
-                            <Name lang="en">Intellectual disability-cataracts-kyphosis syndrome</Name>
+                            <Name lang="en">OBSOLETE:Intellectual disability-cataracts-kyphosis syndrome</Name>
                             <DisorderType id="21394">
                               <Name lang="en">Disease</Name>
                             </DisorderType>
@@ -42265,7 +42265,7 @@
                           <Disorder id="28140">
                             <OrphaCode>557003</OrphaCode>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=557003</ExpertLink>
-                            <Name lang="en">Oculocerebrodental syndrome</Name>
+                            <Name lang="en">Oculoskeletodental syndrome</Name>
                             <DisorderType id="21394">
                               <Name lang="en">Disease</Name>
                             </DisorderType>
@@ -57289,7 +57289,7 @@
                           <Disorder id="18946">
                             <OrphaCode>221126</OrphaCode>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=221126</ExpertLink>
-                            <Name lang="en">Fowler vasculopaty</Name>
+                            <Name lang="en">Fowler vasculopathy</Name>
                             <DisorderType id="21401">
                               <Name lang="en">Malformation syndrome</Name>
                             </DisorderType>
@@ -59461,7 +59461,7 @@
                           <Disorder id="18855">
                             <OrphaCode>217399</OrphaCode>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=217399</ExpertLink>
-                            <Name lang="en">Congenital insensitivity to pain-hyperhidrosis-absence of C-fiber innervation</Name>
+                            <Name lang="en">Congenital insensitivity to pain-hyperhidrosis-absence of cutaneous sensory innervation</Name>
                             <DisorderType id="21394">
                               <Name lang="en">Disease</Name>
                             </DisorderType>
