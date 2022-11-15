@@ -53,3 +53,9 @@ list_entries_synonymes_table = [ 'Orphanet actives entities',
                                  'Average number of synonyms in Orphanet subtypes of disorders with a synonym',
                                  'Maximum number of synonyms in Orphanet subtypes of disorders',
                                ]
+
+list_entries_genetic_table = ['Orphanet actives entities',
+                              'Orphanet actives disorders',
+                              'Orphanet actives genetic disorders',
+                              '%'
+                             ]
